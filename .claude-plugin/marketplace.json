@@ -1,0 +1,17 @@
+{
+  "name": "agent-plugins-01-skills",
+  "owner": {
+    "name": "ashishgadkari"
+  },
+  "metadata": {
+    "description": "Agent Skills for helping user",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "hello",
+      "source": "./my-plugin",
+      "description": "greets user"
+    }
+  ]
+}
