@@ -9,14 +9,9 @@
   },
   "plugins": [
     {
-      "name": "hello",
+      "name": "my-plugin",
       "source": "./my-plugin",
-      "description": "greets user"
-    },
-    {
-      "name": "maths",
-      "source": "./my-plugin",
-      "description": "performs basic arithmetic (add, subtract, multiply, divide)"
+      "description": "Skills: greets the user; performs basic arithmetic (add, subtract, multiply, divide)"
     }
   ]
 }
