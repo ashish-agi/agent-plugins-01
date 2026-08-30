@@ -12,6 +12,11 @@
       "name": "hello",
       "source": "./my-plugin",
       "description": "greets user"
+    },
+    {
+      "name": "maths",
+      "source": "./my-plugin",
+      "description": "performs basic arithmetic (add, subtract, multiply, divide)"
     }
   ]
 }
